@@ -27,11 +27,13 @@ $$
 
 Explicitly:
 
-```
-Ω₂ = {(S,S), (S,C), (S,R),
-      (C,S), (C,C), (C,R),
-      (R,S), (R,C), (R,R)}
-```
+$$
+\begin{align}
+\Omega_2 = \{&(S,S), (S,C), (S,R),\\
+&(C,S), (C,C), (C,R),\\
+&(R,S), (R,C), (R,R)\}
+\end{align}
+$$
 
 For example, $(S,R)$ means the first day was sunny and the second day was rainy.
 
