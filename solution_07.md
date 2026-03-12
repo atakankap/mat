@@ -39,8 +39,10 @@ A_1 = \{2, 4, 6\}
 $$
 
 **Probability:**
+
+There are 3 even numbers out of 6 total:
 $$
-P(A_1) = P(2) + P(4) + P(6) = \frac{1}{6} + \frac{1}{6} + \frac{1}{6} = \frac{3}{6} = \frac{1}{2}
+P(A_1) = P(2) + P(4) + P(6) = \frac{1}{6} + \frac{1}{6} + \frac{1}{6} = \frac{3}{6} = \frac{1}{2} = 0.5 \text{ or } 50\%
 $$
 
 ---
@@ -55,8 +57,10 @@ B_1 = \{5, 6\}
 $$
 
 **Probability:**
+
+There are 2 numbers greater than 4 out of 6 total:
 $$
-P(B_1) = P(5) + P(6) = \frac{1}{6} + \frac{1}{6} = \frac{2}{6} = \frac{1}{3}
+P(B_1) = P(5) + P(6) = \frac{1}{6} + \frac{1}{6} = \frac{2}{6} = \frac{1}{3} \approx 0.3333 \text{ or } 33.33\%
 $$
 
 ---
@@ -71,8 +75,10 @@ C_1 = \{1, 2, 3\}
 $$
 
 **Probability:**
+
+There are 3 numbers at most 3 out of 6 total:
 $$
-P(C_1) = P(1) + P(2) + P(3) = \frac{1}{6} + \frac{1}{6} + \frac{1}{6} = \frac{3}{6} = \frac{1}{2}
+P(C_1) = P(1) + P(2) + P(3) = \frac{1}{6} + \frac{1}{6} + \frac{1}{6} = \frac{3}{6} = \frac{1}{2} = 0.5 \text{ or } 50\%
 $$
 
 ---
@@ -89,8 +95,10 @@ A_2 = \{(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)\}
 $$
 
 **Probability:**
+
+There are 6 favorable outcomes out of 36 total possible outcomes:
 $$
-P(A_2) = 6 \times \frac{1}{36} = \frac{6}{36} = \frac{1}{6}
+P(A_2) = \frac{6}{36} = \frac{1}{6} \approx 0.1667 \text{ or } 16.67\%
 $$
 
 ---
@@ -105,8 +113,10 @@ B_2 = \{(1,1), (2,2), (3,3), (4,4), (5,5), (6,6)\}
 $$
 
 **Probability:**
+
+There are 6 favorable outcomes out of 36 total possible outcomes:
 $$
-P(B_2) = 6 \times \frac{1}{36} = \frac{6}{36} = \frac{1}{6}
+P(B_2) = \frac{6}{36} = \frac{1}{6} \approx 0.1667 \text{ or } 16.67\%
 $$
 
 ---
@@ -125,8 +135,10 @@ C_2 = \{(4,6), (5,5), (6,4), (5,6), (6,5), (6,6)\}
 $$
 
 **Probability:**
+
+There are 6 favorable outcomes out of 36 total possible outcomes:
 $$
-P(C_2) = 6 \times \frac{1}{36} = \frac{6}{36} = \frac{1}{6}
+P(C_2) = \frac{6}{36} = \frac{1}{6} \approx 0.1667 \text{ or } 16.67\%
 $$
 
 ---
@@ -150,8 +162,10 @@ The possible combinations are:
 Counting systematically, there are **27 outcomes** with sum 10.
 
 **Probability:**
+
+There are 27 favorable outcomes out of 216 total possible outcomes:
 $$
-P(A_3) = \frac{27}{216} = \frac{1}{8}
+P(A_3) = \frac{27}{216} = \frac{1}{8} = 0.125 \text{ or } 12.5\%
 $$
 
 ---
@@ -173,8 +187,10 @@ $$
 $$
 
 **Probability:**
+
+There are 90 favorable outcomes out of 216 total possible outcomes:
 $$
-P(B_3) = \frac{90}{216} = \frac{5}{12}
+P(B_3) = \frac{90}{216} = \frac{5}{12} \approx 0.4167 \text{ or } 41.67\%
 $$
 
 ---
@@ -189,8 +205,10 @@ C_3 = \{(2,2,3), (2,3,2), (3,2,2)\}
 $$
 
 **Probability:**
+
+There are 3 favorable outcomes out of 216 total possible outcomes:
 $$
-P(C_3) = \frac{3}{216} = \frac{1}{72}
+P(C_3) = \frac{3}{216} = \frac{1}{72} \approx 0.0139 \text{ or } 1.39\%
 $$
 
 ---
@@ -209,6 +227,8 @@ $$
 (First die: 6 choices, second die: 5 remaining choices, third die: 4 remaining choices)
 
 **Probability:**
+
+There are 120 favorable outcomes out of 216 total possible outcomes:
 $$
-P(D_3) = \frac{120}{216} = \frac{5}{9}
+P(D_3) = \frac{120}{216} = \frac{5}{9} \approx 0.5556 \text{ or } 55.56\%
 $$
